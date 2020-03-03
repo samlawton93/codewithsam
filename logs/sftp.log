@@ -1,0 +1,17 @@
+Mar  3 09:27:18 10.71.57.0 u96982967 Connection from 10.71.57.0 port 28138 on 82.165.80.103 port 22
+Mar  3 09:27:19 10.71.57.0 u96982967 Accepted password for u96982967 from 10.71.57.0 port 28138 ssh2
+Mar  3 09:27:19 10.71.57.0 u96982967 Starting session: subsystem 'sftp' for u96982967 from 10.71.57.0 port 28138
+Mar  3 09:27:19 10.71.57.0 u96982967 session opened for local user u96982967 from [10.71.57.0]
+Mar  3 09:27:47 10.71.57.0 u96982967 Connection from 10.71.57.0 port 50268 on 82.165.80.103 port 22
+Mar  3 09:27:47 10.71.57.0 u96982967 Accepted password for u96982967 from 10.71.57.0 port 50268 ssh2
+Mar  3 09:27:47 10.71.57.0 u96982967 Starting session: subsystem 'sftp' for u96982967 from 10.71.57.0 port 50268
+Mar  3 09:27:48 10.71.57.0 u96982967 session opened for local user u96982967 from [10.71.57.0]
+Mar  3 09:27:47 10.71.57.0 u96982967 Connection from 10.71.57.0 port 50274 on 82.165.80.103 port 22
+Mar  3 09:27:48 10.71.57.0 u96982967 Accepted password for u96982967 from 10.71.57.0 port 50274 ssh2
+Mar  3 09:27:48 10.71.57.0 u96982967 open "/contact.html" flags READ mode 0666
+Mar  3 09:27:48 10.71.57.0 u96982967 Starting session: subsystem 'sftp' for u96982967 from 10.71.57.0 port 50274
+Mar  3 09:27:48 10.71.57.0 u96982967 session opened for local user u96982967 from [10.71.57.0]
+Mar  3 09:27:48 10.71.57.0 u96982967 close "/contact.html" bytes read 10569 written 0
+Mar  3 09:27:48 10.71.57.0 u96982967 [10.71.57.0|get|0|10569|0|0|0|2f636f6e746163742e68746d6c|]
+Mar  3 09:27:48 10.71.57.0 u96982967 open "/index.html" flags READ mode 0666
+Mar  3 09:27:48 10.71.57.0 u96982967 open "/logs/sftp.log" flags READ mode 0666
