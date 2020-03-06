@@ -11,13 +11,13 @@ function sendConfirmation($to, $fields) {
   $mail->Host     = 'tls://smtp.ionos.com:587';
   $mail->SMTPAuth = true;
   $mail->Username = 'hello@codewithsam.co.uk';
-  $mail->Password = '*Cookies1';
+  $mail->Password = '2gq$DpAsGT$9XnB';
   $mail->From     = 'hello@codewithsam.co.uk';
   $mail->FromName = 'Code With Sam';
   $mail->IsHTML(true);
 
   if ($to == 'sam') {
-      $mail->AddAddress('hello@codewithsam.co.uk');
+      $mail->AddAddress('93samlawton@gmail.com');
       $mail->Subject = 'New Enquiry';
       $mailBody = 'A new enquiry has been submitted.<br /><br />';
 
